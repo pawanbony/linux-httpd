@@ -1,4 +1,4 @@
-FROM amazonlinux:latest
+FROM nginx
 
 RUN cat /etc/resolv.conf
 
